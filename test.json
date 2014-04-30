@@ -1,0 +1,17 @@
+{
+  "array": [
+    1,
+    2,
+    31
+  ],
+  "bool": false,
+   "object": {
+    "a": "b",
+    "c": "d",
+    "e": "f"
+  },
+  "null": null,
+  "number": 123e3,
+  "string": "Happy New Year!",
+  "fortest\"": "测试"
+}
